@@ -1,0 +1,27 @@
+body {
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+	color: white;
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+.Caribbean {
+	color: orange;
+}
+
+ul {
+  width: 300px;
+  margin: 0 auto;
+}
